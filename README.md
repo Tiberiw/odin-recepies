@@ -1,4 +1,4 @@
-# odin-recepies
+# odin-recipes
 
 Create a simeple HTML website and practice Git workflow
 
