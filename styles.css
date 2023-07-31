@@ -114,7 +114,7 @@ button {
 .recipes ul {
     display: flex;
     justify-content: space-between;
-    gap: 30px;
+    gap: 16px;
     flex-wrap: wrap;
 }
 
