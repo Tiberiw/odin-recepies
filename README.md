@@ -1,5 +1,19 @@
 # odin-recipes
 
-Create a simple HTML website and practice Git workflow
+This is a sample of a recipes list and the first assignment following The Odin Project course.
 
-This is my first project. I will create a simple recipes website using plain html. I will use Git and GitHub for my workflow.
+Demonstrated skills:
+
+- HTML
+
+- CSS
+    - FLEXBOX
+Live demo : This is a sample of a landing page and the second assignment following The Odin Project course.
+
+Demonstrated skills:
+
+- HTML
+
+- CSS
+    - FLEXBOX
+Live demo : https://tiberiw.github.io/odin-recipes/
